@@ -308,8 +308,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202601/01.2364bafty.txt",
-      "https://mm.mibei77.com/202601/01.23Clashopl.yaml"
+      "https://mm.mibei77.com/202601/01.23Clashopl.yaml",
+      "https://mm.mibei77.com/202601/01.2364bafty.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202601/01.2364bafty.txt"
@@ -326,5 +326,5 @@
       "complete_nodes_count": 66
     }
   },
-  "crawl_time": "2026-01-23 14:31:24"
+  "crawl_time": "2026-01-23 16:20:03"
 }

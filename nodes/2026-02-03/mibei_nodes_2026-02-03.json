@@ -532,8 +532,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202602/02.0364baftr.txt",
-      "https://mm.mibei77.com/202602/02.03Clashplt.yaml"
+      "https://mm.mibei77.com/202602/02.03Clashplt.yaml",
+      "https://mm.mibei77.com/202602/02.0364baftr.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202602/02.0364baftr.txt"
@@ -550,5 +550,5 @@
       "complete_nodes_count": 83
     }
   },
-  "crawl_time": "2026-02-04 01:00:06"
+  "crawl_time": "2026-02-04 05:00:05"
 }

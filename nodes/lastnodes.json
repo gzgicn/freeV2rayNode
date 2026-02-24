@@ -326,8 +326,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202602/02.2464bacre.txt",
-      "https://mm.mibei77.com/202602/02.24Clashore.yaml"
+      "https://mm.mibei77.com/202602/02.24Clashore.yaml",
+      "https://mm.mibei77.com/202602/02.2464bacre.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202602/02.2464bacre.txt"
@@ -344,5 +344,5 @@
       "complete_nodes_count": 79
     }
   },
-  "crawl_time": "2026-02-24 17:00:06"
+  "crawl_time": "2026-02-24 18:00:04"
 }

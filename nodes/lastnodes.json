@@ -518,8 +518,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202603/03.0664badeq.txt",
-      "https://mm.mibei77.com/202603/03.06Clashpre.yaml"
+      "https://mm.mibei77.com/202603/03.06Clashpre.yaml",
+      "https://mm.mibei77.com/202603/03.0664badeq.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202603/03.0664badeq.txt"
@@ -536,5 +536,5 @@
       "complete_nodes_count": 49
     }
   },
-  "crawl_time": "2026-03-06 11:00:04"
+  "crawl_time": "2026-03-06 12:00:04"
 }

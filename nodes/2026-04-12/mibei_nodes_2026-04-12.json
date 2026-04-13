@@ -528,8 +528,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202604/04.1264bafrt.txt",
-      "https://mm.mibei77.com/202604/0412Clashloe.yaml"
+      "https://mm.mibei77.com/202604/0412Clashloe.yaml",
+      "https://mm.mibei77.com/202604/04.1264bafrt.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202604/04.1264bafrt.txt"
@@ -546,5 +546,5 @@
       "complete_nodes_count": 95
     }
   },
-  "crawl_time": "2026-04-13 07:00:06"
+  "crawl_time": "2026-04-13 09:00:08"
 }

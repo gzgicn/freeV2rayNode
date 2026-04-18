@@ -230,8 +230,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202604/0418Clashjeq.yaml",
-      "https://mm.mibei77.com/202604/04.1864bagtr.txt"
+      "https://mm.mibei77.com/202604/04.1864bagtr.txt",
+      "https://mm.mibei77.com/202604/0418Clashjeq.yaml"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202604/04.1864bagtr.txt"
@@ -248,5 +248,5 @@
       "complete_nodes_count": 0
     }
   },
-  "crawl_time": "2026-04-18 19:00:04"
+  "crawl_time": "2026-04-18 20:00:04"
 }

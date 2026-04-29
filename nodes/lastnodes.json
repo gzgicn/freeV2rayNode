@@ -562,8 +562,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202604/04.2964bacvr.txt",
-      "https://mm.mibei77.com/202604/0429Clashjiq.yaml"
+      "https://mm.mibei77.com/202604/0429Clashjiq.yaml",
+      "https://mm.mibei77.com/202604/04.2964bacvr.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202604/04.2964bacvr.txt"
@@ -580,5 +580,5 @@
       "complete_nodes_count": 9
     }
   },
-  "crawl_time": "2026-04-29 12:00:07"
+  "crawl_time": "2026-04-29 13:00:10"
 }

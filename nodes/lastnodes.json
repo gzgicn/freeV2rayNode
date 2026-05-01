@@ -288,8 +288,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202605/0501Clashioq.yaml",
-      "https://mm.mibei77.com/202605/05.0164bavfr.txt"
+      "https://mm.mibei77.com/202605/05.0164bavfr.txt",
+      "https://mm.mibei77.com/202605/0501Clashioq.yaml"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202605/05.0164bavfr.txt"
@@ -306,5 +306,5 @@
       "complete_nodes_count": 79
     }
   },
-  "crawl_time": "2026-05-01 22:00:03"
+  "crawl_time": "2026-05-01 23:00:03"
 }

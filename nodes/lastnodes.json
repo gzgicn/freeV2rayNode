@@ -528,8 +528,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202605/05.1164baxcq.txt",
-      "https://mm.mibei77.com/202605/0511Clasjiqa.yaml"
+      "https://mm.mibei77.com/202605/0511Clasjiqa.yaml",
+      "https://mm.mibei77.com/202605/05.1164baxcq.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202605/05.1164baxcq.txt"
@@ -546,5 +546,5 @@
       "complete_nodes_count": 121
     }
   },
-  "crawl_time": "2026-05-11 21:00:36"
+  "crawl_time": "2026-05-11 23:00:05"
 }

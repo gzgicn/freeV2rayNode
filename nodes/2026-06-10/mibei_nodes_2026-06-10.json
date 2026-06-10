@@ -486,8 +486,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202606/06.1064bavgt.txt",
-      "https://mm.mibei77.com/202606/0610Clashiwe.yaml"
+      "https://mm.mibei77.com/202606/0610Clashiwe.yaml",
+      "https://mm.mibei77.com/202606/06.1064bavgt.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202606/06.1064bavgt.txt"
@@ -504,5 +504,5 @@
       "complete_nodes_count": 29
     }
   },
-  "crawl_time": "2026-06-11 03:00:04"
+  "crawl_time": "2026-06-11 04:00:04"
 }

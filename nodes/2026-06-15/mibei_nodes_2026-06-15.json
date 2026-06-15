@@ -488,8 +488,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202606/0615Clashiqw.yaml",
-      "https://mm.mibei77.com/202606/06.1564bacer.txt"
+      "https://mm.mibei77.com/202606/06.1564bacer.txt",
+      "https://mm.mibei77.com/202606/0615Clashiqw.yaml"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202606/06.1564bacer.txt"
@@ -506,5 +506,5 @@
       "complete_nodes_count": 2
     }
   },
-  "crawl_time": "2026-06-15 17:00:05"
+  "crawl_time": "2026-06-15 21:00:29"
 }

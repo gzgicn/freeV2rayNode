@@ -6,15 +6,15 @@
     "limit": 30,
     "pageSize": 10,
     "totalCount": 30,
-    "updateTime": "2026-06-18 11:01:13",
+    "updateTime": "2026-06-19 00:00:16",
     "rows": [
         {
             "id": 1,
             "publish_date": "2026-06-18",
             "nodesTitle": "2026年06月18日免费精选节点200条 可看1080P/4K视频 v2ray|clash|小火箭订阅链接 手机电脑 科学上网|梯子|翻墙|代理|VPN|外网",
             "descript": "",
-            "v2rayUrl": "",
-            "node_count": 0
+            "v2rayUrl": "/nodes/2026-06-18/20260618_nodes.txt",
+            "node_count": 180
         },
         {
             "id": 2,

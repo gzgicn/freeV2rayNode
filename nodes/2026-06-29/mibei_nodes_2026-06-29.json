@@ -368,8 +368,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202606/06.2964bagyu.txt",
-      "https://mm.mibei77.com/202606/0629Clashuqd.yaml"
+      "https://mm.mibei77.com/202606/0629Clashuqd.yaml",
+      "https://mm.mibei77.com/202606/06.2964bagyu.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202606/06.2964bagyu.txt"
@@ -386,5 +386,5 @@
       "complete_nodes_count": 4
     }
   },
-  "crawl_time": "2026-06-30 08:00:07"
+  "crawl_time": "2026-06-30 09:00:06"
 }

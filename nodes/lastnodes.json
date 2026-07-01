@@ -476,8 +476,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202607/0701Clashjop.yaml",
-      "https://mm.mibei77.com/202607/07.0164bafre.txt"
+      "https://mm.mibei77.com/202607/07.0164bafre.txt",
+      "https://mm.mibei77.com/202607/0701Clashjop.yaml"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202607/07.0164bafre.txt"
@@ -494,5 +494,5 @@
       "complete_nodes_count": 2
     }
   },
-  "crawl_time": "2026-07-01 20:00:06"
+  "crawl_time": "2026-07-01 21:00:08"
 }

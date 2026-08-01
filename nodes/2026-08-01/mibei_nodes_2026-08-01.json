@@ -246,8 +246,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202608/08.0164bacfr.txt",
-      "https://mm.mibei77.com/202608/0801Clashija.yaml"
+      "https://mm.mibei77.com/202608/0801Clashija.yaml",
+      "https://mm.mibei77.com/202608/08.0164bacfr.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202608/08.0164bacfr.txt"
@@ -264,5 +264,5 @@
       "complete_nodes_count": 0
     }
   },
-  "crawl_time": "2026-08-01 15:00:02"
+  "crawl_time": "2026-08-01 16:00:03"
 }

@@ -206,8 +206,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202608/080464bacda.txt",
-      "https://mm.mibei77.com/202608/0804Clashika.yaml"
+      "https://mm.mibei77.com/202608/0804Clashika.yaml",
+      "https://mm.mibei77.com/202608/080464bacda.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202608/080464bacda.txt"
@@ -224,5 +224,5 @@
       "complete_nodes_count": 11
     }
   },
-  "crawl_time": "2026-08-04 23:02:08"
+  "crawl_time": "2026-08-05 02:00:43"
 }

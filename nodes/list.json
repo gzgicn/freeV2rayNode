@@ -6,15 +6,15 @@
     "limit": 30,
     "pageSize": 10,
     "totalCount": 30,
-    "updateTime": "2026-08-07 16:01:12",
+    "updateTime": "2026-08-07 18:01:04",
     "rows": [
         {
             "id": 1,
             "publish_date": "2026-08-07",
             "nodesTitle": "2026年08月07日免费精选节点107条 可看1080P/4K视频 v2ray|clash|小火箭订阅链接 手机电脑 科学上网|梯子|翻墙|代理|VPN|外网",
             "descript": "",
-            "v2rayUrl": "",
-            "node_count": 0
+            "v2rayUrl": "/nodes/2026-08-07/20260807_nodes.txt",
+            "node_count": 75
         },
         {
             "id": 2,

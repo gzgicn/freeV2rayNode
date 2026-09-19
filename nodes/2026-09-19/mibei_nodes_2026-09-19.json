@@ -546,8 +546,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202609/09.1964bad5s.txt",
-      "https://mm.mibei77.com/202609/0919Clasgizx.yaml"
+      "https://mm.mibei77.com/202609/0919Clasgizx.yaml",
+      "https://mm.mibei77.com/202609/09.1964bad5s.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202609/09.1964bad5s.txt"
@@ -564,5 +564,5 @@
       "complete_nodes_count": 0
     }
   },
-  "crawl_time": "2026-09-20 01:00:08"
+  "crawl_time": "2026-09-20 02:00:10"
 }

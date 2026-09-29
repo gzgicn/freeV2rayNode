@@ -568,8 +568,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202609/09.2964baxcd.txt",
-      "https://mm.mibei77.com/202609/0929Clashiza.yaml"
+      "https://mm.mibei77.com/202609/0929Clashiza.yaml",
+      "https://mm.mibei77.com/202609/09.2964baxcd.txt"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202609/09.2964baxcd.txt"
@@ -586,5 +586,5 @@
       "complete_nodes_count": 0
     }
   },
-  "crawl_time": "2026-09-29 20:00:36"
+  "crawl_time": "2026-09-30 02:00:05"
 }

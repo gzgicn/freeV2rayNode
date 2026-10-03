@@ -202,8 +202,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://mm.mibei77.com/202610/1002Clashizx.yaml",
-      "https://mm.mibei77.com/202610/10.0264bacdq.txt"
+      "https://mm.mibei77.com/202610/10.0264bacdq.txt",
+      "https://mm.mibei77.com/202610/1002Clashizx.yaml"
     ],
     "v2ray_subscription_links": [
       "https://mm.mibei77.com/202610/10.0264bacdq.txt"
@@ -220,5 +220,5 @@
       "complete_nodes_count": 1
     }
   },
-  "crawl_time": "2026-10-03 10:00:03"
+  "crawl_time": "2026-10-03 11:00:04"
 }

@@ -218,8 +218,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202610/1009Clashimc.yaml",
-      "https://aa.mibei77.com/202610/10.0964bacde.txt"
+      "https://aa.mibei77.com/202610/10.0964bacde.txt",
+      "https://aa.mibei77.com/202610/1009Clashimc.yaml"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202610/10.0964bacde.txt"
@@ -236,5 +236,5 @@
       "complete_nodes_count": 0
     }
   },
-  "crawl_time": "2026-10-10 02:00:04"
+  "crawl_time": "2026-10-10 05:00:03"
 }

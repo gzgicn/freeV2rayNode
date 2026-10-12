@@ -284,8 +284,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202610/10.1264bacvt.txt",
-      "https://aa.mibei77.com/202610/1012Clashizq.yaml"
+      "https://aa.mibei77.com/202610/1012Clashizq.yaml",
+      "https://aa.mibei77.com/202610/10.1264bacvt.txt"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202610/10.1264bacvt.txt"
@@ -302,5 +302,5 @@
       "complete_nodes_count": 3
     }
   },
-  "crawl_time": "2026-10-12 21:00:06"
+  "crawl_time": "2026-10-12 22:00:04"
 }

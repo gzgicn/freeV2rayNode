@@ -198,8 +198,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202610/1014Clashiop.yaml",
-      "https://aa.mibei77.com/202610/10.1464bacth.txt"
+      "https://aa.mibei77.com/202610/10.1464bacth.txt",
+      "https://aa.mibei77.com/202610/1014Clashiop.yaml"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202610/10.1464bacth.txt"
@@ -216,5 +216,5 @@
       "complete_nodes_count": 4
     }
   },
-  "crawl_time": "2026-10-14 22:00:04"
+  "crawl_time": "2026-10-14 23:00:03"
 }

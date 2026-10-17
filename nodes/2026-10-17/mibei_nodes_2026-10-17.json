@@ -190,8 +190,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202610/10.1764bgase.txt",
-      "https://aa.mibei77.com/202610/1017clafjsh.yaml"
+      "https://aa.mibei77.com/202610/1017clafjsh.yaml",
+      "https://aa.mibei77.com/202610/10.1764bgase.txt"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202610/10.1764bgase.txt"
@@ -208,5 +208,5 @@
       "complete_nodes_count": 1
     }
   },
-  "crawl_time": "2026-10-18 06:00:03"
+  "crawl_time": "2026-10-18 07:00:03"
 }

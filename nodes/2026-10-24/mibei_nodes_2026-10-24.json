@@ -554,8 +554,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202610/10.2464babge.txt",
-      "https://aa.mibei77.com/202610/1024Clashilo.yaml"
+      "https://aa.mibei77.com/202610/1024Clashilo.yaml",
+      "https://aa.mibei77.com/202610/10.2464babge.txt"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202610/10.2464babge.txt"
@@ -572,5 +572,5 @@
       "complete_nodes_count": 1
     }
   },
-  "crawl_time": "2026-10-24 18:00:07"
+  "crawl_time": "2026-10-24 19:00:07"
 }

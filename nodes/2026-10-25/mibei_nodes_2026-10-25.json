@@ -174,8 +174,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202610/10.2564baghl.txt",
-      "https://aa.mibei77.com/202610/1025Clashiwr.yaml"
+      "https://aa.mibei77.com/202610/1025Clashiwr.yaml",
+      "https://aa.mibei77.com/202610/10.2564baghl.txt"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202610/10.2564baghl.txt"
@@ -192,5 +192,5 @@
       "complete_nodes_count": 5
     }
   },
-  "crawl_time": "2026-10-25 21:00:08"
+  "crawl_time": "2026-10-25 22:00:08"
 }

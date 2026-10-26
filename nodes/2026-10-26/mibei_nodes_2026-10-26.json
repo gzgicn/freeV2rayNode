@@ -184,8 +184,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202610/10.2664bavyj.txt",
-      "https://aa.mibei77.com/202610/1026Clashiko.yaml"
+      "https://aa.mibei77.com/202610/1026Clashiko.yaml",
+      "https://aa.mibei77.com/202610/10.2664bavyj.txt"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202610/10.2664bavyj.txt"
@@ -202,5 +202,5 @@
       "complete_nodes_count": 2
     }
   },
-  "crawl_time": "2026-10-27 01:00:08"
+  "crawl_time": "2026-10-27 02:00:12"
 }

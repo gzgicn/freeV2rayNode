@@ -184,8 +184,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202610/1029Clashlop.yaml",
-      "https://aa.mibei77.com/202610/10.2964baver.txt"
+      "https://aa.mibei77.com/202610/10.2964baver.txt",
+      "https://aa.mibei77.com/202610/1029Clashlop.yaml"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202610/10.2964baver.txt"
@@ -202,5 +202,5 @@
       "complete_nodes_count": 2
     }
   },
-  "crawl_time": "2026-10-30 05:00:06"
+  "crawl_time": "2026-10-30 06:00:07"
 }

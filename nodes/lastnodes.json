@@ -380,8 +380,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202610/10.3064bagjk.txt",
-      "https://aa.mibei77.com/202610/1030Clashikl.yaml"
+      "https://aa.mibei77.com/202610/1030Clashikl.yaml",
+      "https://aa.mibei77.com/202610/10.3064bagjk.txt"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202610/10.3064bagjk.txt"
@@ -398,5 +398,5 @@
       "complete_nodes_count": 0
     }
   },
-  "crawl_time": "2026-10-30 12:00:08"
+  "crawl_time": "2026-10-30 13:00:09"
 }

@@ -254,8 +254,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202611/11.0764bagtu.txt",
-      "https://aa.mibei77.com/202611/1107Clashqrt.yaml"
+      "https://aa.mibei77.com/202611/1107Clashqrt.yaml",
+      "https://aa.mibei77.com/202611/11.0764bagtu.txt"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202611/11.0764bagtu.txt"
@@ -272,5 +272,5 @@
       "complete_nodes_count": 6
     }
   },
-  "crawl_time": "2026-11-07 16:00:07"
+  "crawl_time": "2026-11-07 17:00:10"
 }

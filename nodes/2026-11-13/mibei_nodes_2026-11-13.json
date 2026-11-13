@@ -294,8 +294,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202611/11.1364bahnf.txt",
-      "https://aa.mibei77.com/202611/1113Clashilo.yaml"
+      "https://aa.mibei77.com/202611/1113Clashilo.yaml",
+      "https://aa.mibei77.com/202611/11.1364bahnf.txt"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202611/11.1364bahnf.txt"
@@ -312,5 +312,5 @@
       "complete_nodes_count": 1
     }
   },
-  "crawl_time": "2026-11-13 23:00:17"
+  "crawl_time": "2026-11-14 00:00:35"
 }

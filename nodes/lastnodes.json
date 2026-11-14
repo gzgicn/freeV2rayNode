@@ -194,8 +194,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202611/1114Clashipl.yaml",
-      "https://aa.mibei77.com/202611/11.1464bamhy.txt"
+      "https://aa.mibei77.com/202611/11.1464bamhy.txt",
+      "https://aa.mibei77.com/202611/1114Clashipl.yaml"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202611/11.1464bamhy.txt"
@@ -212,5 +212,5 @@
       "complete_nodes_count": 0
     }
   },
-  "crawl_time": "2026-11-14 14:01:58"
+  "crawl_time": "2026-11-14 17:02:04"
 }

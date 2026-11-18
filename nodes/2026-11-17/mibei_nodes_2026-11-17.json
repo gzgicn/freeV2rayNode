@@ -244,8 +244,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202611/11.1764bagtq.txt",
-      "https://aa.mibei77.com/202611/1117Clashief.yaml"
+      "https://aa.mibei77.com/202611/1117Clashief.yaml",
+      "https://aa.mibei77.com/202611/11.1764bagtq.txt"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202611/11.1764bagtq.txt"
@@ -262,5 +262,5 @@
       "complete_nodes_count": 2
     }
   },
-  "crawl_time": "2026-11-18 13:03:08"
+  "crawl_time": "2026-11-18 14:02:10"
 }

@@ -300,8 +300,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202611/11.2364bagre.txt",
-      "https://aa.mibei77.com/202611/1123Clashqer.yaml"
+      "https://aa.mibei77.com/202611/1123Clashqer.yaml",
+      "https://aa.mibei77.com/202611/11.2364bagre.txt"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202611/11.2364bagre.txt"
@@ -318,5 +318,5 @@
       "complete_nodes_count": 2
     }
   },
-  "crawl_time": "2026-11-24 08:00:06"
+  "crawl_time": "2026-11-24 09:00:06"
 }

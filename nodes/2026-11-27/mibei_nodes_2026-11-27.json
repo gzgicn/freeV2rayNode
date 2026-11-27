@@ -254,8 +254,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202611/1127Clashilp.yaml",
-      "https://aa.mibei77.com/202611/11.2764bahju.txt"
+      "https://aa.mibei77.com/202611/11.2764bahju.txt",
+      "https://aa.mibei77.com/202611/1127Clashilp.yaml"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202611/11.2764bahju.txt"
@@ -272,5 +272,5 @@
       "complete_nodes_count": 0
     }
   },
-  "crawl_time": "2026-11-28 06:00:06"
+  "crawl_time": "2026-11-28 07:00:05"
 }

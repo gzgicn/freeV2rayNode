@@ -274,8 +274,8 @@
     ],
     "clash_nodes": [],
     "subscription_links": [
-      "https://aa.mibei77.com/202611/1128Clashklc.yaml",
-      "https://aa.mibei77.com/202611/11.2864baged.txt"
+      "https://aa.mibei77.com/202611/11.2864baged.txt",
+      "https://aa.mibei77.com/202611/1128Clashklc.yaml"
     ],
     "v2ray_subscription_links": [
       "https://aa.mibei77.com/202611/11.2864baged.txt"
@@ -292,5 +292,5 @@
       "complete_nodes_count": 0
     }
   },
-  "crawl_time": "2026-11-28 23:00:06"
+  "crawl_time": "2026-11-29 00:00:09"
 }
